@@ -1,0 +1,5 @@
+First install all modules
+	npm install -g npm@9.6.3
+	npm install
+
+	npm start
